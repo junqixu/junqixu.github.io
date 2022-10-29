@@ -8,7 +8,7 @@ I am a Undergraduate at school of Future Science and Technology of Soochow Unive
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
+- **Smart Cockpit:** domestic large computing chips such as Journey 5, B202210-Intelligent Cockpit-Vision-Based Fatigue Driving Detection
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 
 ## News
