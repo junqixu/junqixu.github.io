@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Undergraduate at school of Future Science and Technology of Soochow University with which located in Suzhou, Jiangsu provice, China 
 
 ## Research Interests
 
