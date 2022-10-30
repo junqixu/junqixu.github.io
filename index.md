@@ -8,12 +8,11 @@ I am a Undergraduate at school of Future Science and Technology of Soochow Unive
 
 ## Research Interests
 
-- **Smart Cockpit:** domestic large computing chips such as Journey 5, B202210-Intelligent Cockpit-Vision-Based Fatigue Driving Detection
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
+- **Smart Cockpit:**  Intelligent Cockpit - Vision-Based Fatigue Driving Detection
+- **Machine Learning:** L3 and above ,visual fatigue,dection algorithms
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
+- **[QCT 11th, 2022]** Professor Cong Yang led five undergraduates(**Junqi Xu**, Chengyu Zhu, Cong Yang, Xinyu Yang, Ruoxi Sun) to establish[the BeeLab]()。The five members are :Cong Qian, Xinyu Yang, Ruoxi Sun, Chengyu Zhu, Junqi Xu  
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
